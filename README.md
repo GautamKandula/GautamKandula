@@ -1,7 +1,6 @@
 # Hey There, Im Gautam 👋
 # 💫Welcome to my README, 
 ## here's a few things about me: 
-- Im a 16 year old self-taught programmer from Ontario, Canada. <br> - Some of my interests include App Development, ML, and motorsports. <br> - My most recent project is a MERN stack production level texting app.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gautamkandula) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/GautamKandula) 
